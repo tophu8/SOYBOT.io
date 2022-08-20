@@ -3,7 +3,7 @@
   <a href="#installation">installation</a> |
   <a href="#credits">credits</a>
 </p>
-<p align="center">Streamer.bot commands for bots developed by [tophu8](twitch.tv/tophu8)</p>
+<p align="center">Streamer.bot commands for bots developed by tophu8</p>
 
 ---
 
@@ -16,5 +16,3 @@
 ## Credits
 
 - [Obscure](https://github.com/Streamerbot/Streamer.bot) for software that these commands are build for and managed in.
-
-**please inform me if i forgot anyone**
