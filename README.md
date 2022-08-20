@@ -3,7 +3,7 @@
   <a href="#installation">installation</a> |
   <a href="#credits">credits</a>
 </p>
-<p align="center">Streamer.bot commands for bots developed by twitch.tv/tophu8</p>
+<p align="center">Streamer.bot commands for bots developed by [tophu8](twitch.tv/tophu8)</p>
 
 ---
 
