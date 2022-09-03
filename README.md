@@ -9,6 +9,7 @@
 
 ## Installation
 
+  - go to [Actions](https://github.com/tophu8/SOYBOT.io/tree/main/actions)
   - copy import code
   - click "Import" inside Streamer.bot
   - edit any variables indicated
